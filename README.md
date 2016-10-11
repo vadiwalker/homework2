@@ -10,6 +10,8 @@
 * Разбор ответа от API при помощи `JsonReader` или `JSONObject`
 * Отображение процесса загрузки при помощи `ProgressBar`
 
+<img src="https://github.com/IFMO-Android-2016/homework2/blob/master/demo_screenshot.png" width="360px"/>
+
 ## Задание
 
 * Зарегистрироваться на https://www.themoviedb.org/ и получить ключ API, прописать ключ в классе `TmdbApi` вместо дефолтного.
